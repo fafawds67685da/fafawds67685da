@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Goyal</h1>
 <h3 align="center">A passionate Tech enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://pixabay.com/illustrations/space-earth-bug-program-code-19070/">
+<img align="right" alt="coding" width="400" src="[https://pixabay.com/illustrations/space-earth-bug-program-code-19070/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckTdSbgyYP6U_18vT_H-IGEfXIj5OMP5lhA&s)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafawds67685da&label=Profile%20views&color=0e75b6&style=flat" alt="fafawds67685da" /> </p>
 
