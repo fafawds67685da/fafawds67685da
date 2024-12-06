@@ -1,0 +1,35 @@
+Steps to Upload Your Local Folder to GitHub
+
+1. Navigate to the Folder in the Terminal/Command Prompt
+    Open your terminal or command prompt.
+    Use the cd command to navigate to the folder you want to upload:
+
+    --cd path/to/your/folder
+
+2. Initialize Git in the Folder
+    Initialize the folder as a Git repository by running:
+
+   -- git init
+
+
+3. Add the Remote Repository
+    Link your local folder to the GitHub repository you created by adding it as a remote:
+  
+   -- git remote add origin https://github.com/username/repo-name.git
+
+
+    Replace username with your GitHub username and repo-name with the name of your repository.
+
+4. Add and Commit the Files
+    Add all files in your folder to the Git repository:
+  
+   -- git add .
+
+   -- git commit -m "Initial commit"
+
+
+5. Push the Files to GitHub
+    Push the files to the remote repository:
+
+    --git branch -M main
+    --git push -u origin main
