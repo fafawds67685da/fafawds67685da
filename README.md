@@ -23,10 +23,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
 
-# 🚀 Featured Repositories
+<h1>💻 My GitHub Projects</h1>
 
-[![AI Heart Detector](https://img.shields.io/badge/-AI_Heart_Detector-blue)](https://github.com/fafawds67685da/Heart_Disease-Detection-models)
-[![Stock Prediction Bot](https://img.shields.io/badge/-Stock_Prediction_Bot-green)](https://github.com/username/stock-prediction-bot)  
-[![Calculator App](https://img.shields.io/badge/-Calculator_App-orange)](https://github.com/username/calculator-app)  
-[![Ethereum Docker Node](https://img.shields.io/badge/-Ethereum_Docker_Node-red)](https://github.com/username/ethereum-docker)
+<ul>
+  <li><b>🚀 <a href="https://github.com/fafawds67685da/Heart_Disease-Detection-models">AI Heart Detector</a></b>: Detect heart diseases using AI.</li>
+  <li><b>📈 <a href="https://github.com/username/stock-prediction-bot">Stock Prediction Bot</a></b>: Predict stock trends with ML.</li>
+  <li><b>🛠️ <a href="https://github.com/username/calculator-app">Calculator App</a></b>: A calculator for advanced mathematics.</li>
+  <li><b>🌐 <a href="https://github.com/username/ethereum-docker">Ethereum Docker Node</a></b>: Containerized Ethereum for blockchain projects.</li>
+</ul>
 
