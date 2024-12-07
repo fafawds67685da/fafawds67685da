@@ -24,12 +24,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
 
-# 🚀 Featured Repositories
+# My ML models
 
-[![AI Heart Detector](https://img.shields.io/badge/-AI_Heart_Detector-blue)](https://github.com/username/ai-heart-detector)  
-[![Stock Prediction Bot](https://img.shields.io/badge/-Stock_Prediction_Bot-green)](https://github.com/username/stock-prediction-bot)  
-[![Calculator App](https://img.shields.io/badge/-Calculator_App-orange)](https://github.com/username/calculator-app)  
-[![Ethereum Docker Node](https://img.shields.io/badge/-Ethereum_Docker_Node-red)](https://github.com/username/ethereum-docker)
+[![1. Heart Disease Detection Model](https://img.shields.io/badge/-AI_Heart_Detector-blue)](https://github.com/fafawds67685da/Heart_Disease-Detection-models) 
+[![2. Predicting ESI of exoplanets](https://img.shields.io/badge/-Stock_Prediction_Bot-green)](https://github.com/fafawds67685da/Predicting_ESI_of_Exoplanets_Terraformation_Potential)
+[![3. Spam ham Detection](https://img.shields.io/badge/-Calculator_App-orange)](https://github.com/fafawds67685da/Spam_ham_detection)
+[![4. Product Fake review Detection System](https://img.shields.io/badge/-Ethereum_Docker_Node-red)](https://github.com/fafawds67685da/Product_Fake_review_Detection_System)
+[![5. Transaction Anomaly Detection System](https://img.shields.io/badge/-Ethereum_Docker_Node-red)](https://github.com/fafawds67685da/Anomaly_Detection_Using_Credit_card_transactions)
 
 
 
