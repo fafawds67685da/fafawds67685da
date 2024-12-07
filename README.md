@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dev Goyal</h1>
 <h3 align="center">A passionate Tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckTdSbgyYP6U_18vT_H-IGEfXIj5OMP5lhA&s">
@@ -25,29 +26,10 @@
 
 # 🚀 Featured Repositories
 
-<p>
-  <a href="https://github.com/username/ai-heart-detector">
-    <img src="https://img.shields.io/badge/-AI_Heart_Detector-blue" style="width: 250px; height: 40px;">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/username/stock-prediction-bot">
-    <img src="https://img.shields.io/badge/-Stock_Prediction_Bot-green" style="width: 250px; height: 40px;">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/username/calculator-app">
-    <img src="https://img.shields.io/badge/-Calculator_App-orange" style="width: 250px; height: 40px;">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/username/ethereum-docker">
-    <img src="https://img.shields.io/badge/-Ethereum_Docker_Node-red" style="width: 250px; height: 40px;">
-  </a>
-</p>
+[![AI Heart Detector](https://img.shields.io/badge/-AI_Heart_Detector-blue)](https://github.com/username/ai-heart-detector)  
+[![Stock Prediction Bot](https://img.shields.io/badge/-Stock_Prediction_Bot-green)](https://github.com/username/stock-prediction-bot)  
+[![Calculator App](https://img.shields.io/badge/-Calculator_App-orange)](https://github.com/username/calculator-app)  
+[![Ethereum Docker Node](https://img.shields.io/badge/-Ethereum_Docker_Node-red)](https://github.com/username/ethereum-docker)
 
 
 
