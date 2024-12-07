@@ -22,3 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&show_icons=true&locale=en&layout=compact" alt="fafawds67685da" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
+
+## 🚀 Featured Projects
+- [**Project 1: AI Heart Detector**]([https://github.com/username/ai-heart-detector](https://github.com/fafawds67685da/Heart_Disease-Detection-models))  
+  A cutting-edge tool for detecting heart diseases using AI at home.  
