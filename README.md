@@ -26,7 +26,7 @@
 
 # My ML models
 
-[![1. Heart Disease Detection Model](https://img.shields.io/badge/-AI_Heart_Detector-blue)](https://github.com/fafawds67685da/Heart_Disease-Detection-models) 
+[![1. Heart Disease Detection Model](https://img.shields.io/badge/-1._Heart_Disease_Detection_Model)](https://github.com/fafawds67685da/Heart_Disease-Detection-models) 
 [![2. Predicting ESI of exoplanets](https://img.shields.io/badge/-Stock_Prediction_Bot-green)](https://github.com/fafawds67685da/Predicting_ESI_of_Exoplanets_Terraformation_Potential)
 [![3. Spam ham Detection](https://img.shields.io/badge/-Calculator_App-orange)](https://github.com/fafawds67685da/Spam_ham_detection)
 [![4. Product Fake review Detection System](https://img.shields.io/badge/-Ethereum_Docker_Node-red)](https://github.com/fafawds67685da/Product_Fake_review_Detection_System)
