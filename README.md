@@ -24,5 +24,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
 
 ## 🚀 Featured Projects
-- [**Project 1: AI Heart Detector**]([https://github.com/username/ai-heart-detector](https://github.com/fafawds67685da/Heart_Disease-Detection-models))  
-  A cutting-edge tool for detecting heart diseases using AI at home.  
+| Repository Name        | Description                                              | Link                                    |
+|------------------------|----------------------------------------------------------|-----------------------------------------|
+| AI Heart Detector      | A tool for detecting heart diseases using AI at home.    | [View Repo]([https://github.com/username/ai-heart-detector](https://github.com/fafawds67685da/Heart_Disease-Detection-models)) |
+| Stock Prediction Bot   | A chatbot predicting stock trends using ML.              | [View Repo](https://github.com/username/stock-prediction-bot) |
+| Calculator App         | A virtual calculator with advanced math functions.       | [View Repo](https://github.com/username/calculator-app) |
+| Ethereum Docker Node   | A containerized Ethereum node for blockchain development.| [View Repo](https://github.com/username/ethereum-docker) |
+ 
