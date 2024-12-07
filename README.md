@@ -23,12 +23,31 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
 
-<h1>💻 My GitHub Projects</h1>
+# 🚀 Featured Repositories
 
-<ul>
-  <li><b>🚀 <a href="https://github.com/fafawds67685da/Heart_Disease-Detection-models">AI Heart Detector</a></b>: Detect heart diseases using AI.</li>
-  <li><b>📈 <a href="https://github.com/username/stock-prediction-bot">Stock Prediction Bot</a></b>: Predict stock trends with ML.</li>
-  <li><b>🛠️ <a href="https://github.com/username/calculator-app">Calculator App</a></b>: A calculator for advanced mathematics.</li>
-  <li><b>🌐 <a href="https://github.com/username/ethereum-docker">Ethereum Docker Node</a></b>: Containerized Ethereum for blockchain projects.</li>
-</ul>
+<p>
+  <a href="https://github.com/username/ai-heart-detector">
+    <img src="https://img.shields.io/badge/-AI_Heart_Detector-blue" style="width: 250px; height: 40px;">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/username/stock-prediction-bot">
+    <img src="https://img.shields.io/badge/-Stock_Prediction_Bot-green" style="width: 250px; height: 40px;">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/username/calculator-app">
+    <img src="https://img.shields.io/badge/-Calculator_App-orange" style="width: 250px; height: 40px;">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/username/ethereum-docker">
+    <img src="https://img.shields.io/badge/-Ethereum_Docker_Node-red" style="width: 250px; height: 40px;">
+  </a>
+</p>
+
+
 
