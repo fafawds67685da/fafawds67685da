@@ -24,13 +24,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
 
-# My ML models
+# My ML Models
 
-[![1. Heart Disease Detection Model](https://img.shields.io/badge/-1%20Heart%20Disease%20Detection%20Model-blue)](https://github.com/fafawds67685da/Heart_Disease-Detection-models) 
-[![2 Predicting ESI of Exoplanets](https://img.shields.io/badge/-2%20Predicting%20ESI%20of%20Exoplanets-blue)](https://github.com/fafawds67685da/Predicting_ESI_of_Exoplanets_Terraformation_Potential)  
-[![3 Spam Ham Detection](https://img.shields.io/badge/-3%20Spam%20Ham%20Detection-blue)](https://github.com/fafawds67685da/Spam_ham_detection)  
-[![4 Product Fake Review Detection System](https://img.shields.io/badge/-4%20Product%20Fake%20Review%20Detection%20System-blue)](https://github.com/fafawds67685da/Product_Fake_review_Detection_System)  
-[![5 Transaction Anomaly Detection System](https://img.shields.io/badge/-5%20Transaction%20Anomaly%20Detection%20System-blue)](https://github.com/fafawds67685da/Anomaly_Detection_Using_Credit_card_transactions)
+<a href="https://github.com/fafawds67685da/Heart_Disease-Detection-models">
+  <img src="https://img.shields.io/badge/-1%20Heart%20Disease%20Detection%20Model-blue" alt="Heart Disease Detection Model" width="225">
+</a>  
+<a href="https://github.com/fafawds67685da/Predicting_ESI_of_Exoplanets_Terraformation_Potential">
+  <img src="https://img.shields.io/badge/-2%20Predicting%20ESI%20of%20Exoplanets-blue" alt="Predicting ESI of Exoplanets" width="225">
+</a>  
+<a href="https://github.com/fafawds67685da/Spam_ham_detection">
+  <img src="https://img.shields.io/badge/-3%20Spam%20Ham%20Detection-blue" alt="Spam Ham Detection" width="225">
+</a>  
+<a href="https://github.com/fafawds67685da/Product_Fake_review_Detection_System">
+  <img src="https://img.shields.io/badge/-4%20Product%20Fake%20Review%20Detection%20System-blue" alt="Product Fake Review Detection System" width="225">
+</a>  
+<a href="https://github.com/fafawds67685da/Anomaly_Detection_Using_Credit_card_transactions">
+  <img src="https://img.shields.io/badge/-5%20Transaction%20Anomaly%20Detection%20System-blue" alt="Transaction Anomaly Detection System" width="225">
+</a>
+
 
 
 
