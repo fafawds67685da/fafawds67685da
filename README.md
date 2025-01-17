@@ -31,27 +31,27 @@
 ## 🎯 **Basic ML Models**  
 
 - **1️⃣ Heart Disease Detection**  
-  ![Heart Disease](https://img.shields.io/badge/❤️-Heart_Disease_Model-FF5733?style=for-the-badge&logo=heartbeat&logoColor=white)  
+  ![Heart Disease](https://img.shields.io/badge/-Heart_Disease_Model-007BFF?style=for-the-badge&logo=heartbeat&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Heart_Disease-Detection-models)  
 
 - **2️⃣ Lung Cancer Prediction**  
-  ![Lung Cancer](https://img.shields.io/badge/🌫️-Lung_Cancer_Prediction-900C3F?style=for-the-badge&logo=lungs&logoColor=white)  
+  ![Lung Cancer](https://img.shields.io/badge/-Lung_Cancer_Prediction-007BFF?style=for-the-badge&logo=lungs&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Lung_Cancer_Prediction)  
 
 - **3️⃣ Breast Cancer Prediction**  
-  ![Breast Cancer](https://img.shields.io/badge/🎀-Breast_Cancer_Model-E91E63?style=for-the-badge&logo=ribbon&logoColor=white)  
+  ![Breast Cancer](https://img.shields.io/badge/-Breast_Cancer_Model-007BFF?style=for-the-badge&logo=ribbon&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Breast_Cancer_Prediction)  
 
 - **4️⃣ Anomaly Detection (Credit Card)**  
-  ![Anomaly Detection](https://img.shields.io/badge/💳-Anomaly_Detection-5A5A5A?style=for-the-badge&logo=credit-card&logoColor=white)  
+  ![Anomaly Detection](https://img.shields.io/badge/-Anomaly_Detection-007BFF?style=for-the-badge&logo=credit-card&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Anomaly_Detection_Using_Credit_card_transactions)  
 
 - **5️⃣ Stock Prediction**  
-  ![Stock Prediction](https://img.shields.io/badge/📈-Stock_Prediction-28A745?style=for-the-badge&logo=line-chart&logoColor=white)  
+  ![Stock Prediction](https://img.shields.io/badge/-Stock_Prediction-007BFF?style=for-the-badge&logo=line-chart&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Stock_Prediction)  
 
 - **6️⃣ Power Consumption Prediction**  
-  ![Power Consumption](https://img.shields.io/badge/🔌-Power_Consumption-007BFF?style=for-the-badge&logo=power&logoColor=white)  
+  ![Power Consumption](https://img.shields.io/badge/-Power_Consumption-007BFF?style=for-the-badge&logo=power&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/House_hold_Power_Consumption_prediction_-Multiple-REGRESSORS-)  
 
 ---
@@ -59,23 +59,23 @@
 ## 🧠 **NLP-Based ML Models**  
 
 - **7️⃣ Fake Review Detector**  
-  ![Fake Review](https://img.shields.io/badge/🛒-Fake_Review_Detector-FFC300?style=for-the-badge&logo=review&logoColor=white)  
+  ![Fake Review](https://img.shields.io/badge/-Fake_Review_Detector-007BFF?style=for-the-badge&logo=review&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Product_Fake_review_Detection_System)  
 
 - **8️⃣ Sentiment Analysis**  
-  ![Sentiment Analysis](https://img.shields.io/badge/😊-Sentiment_Analysis-17A2B8?style=for-the-badge&logo=smile&logoColor=white)  
+  ![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-007BFF?style=for-the-badge&logo=smile&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Sentiment_Analysis)  
 
 - **9️⃣ Racism Detection**  
-  ![Racism Detection](https://img.shields.io/badge/👿-Racism_Detector-DC3545?style=for-the-badge&logo=angry&logoColor=white)  
+  ![Racism Detection](https://img.shields.io/badge/-Racism_Detector-007BFF?style=for-the-badge&logo=angry&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Racism_Detection)  
 
 - **🔟 Sexism Detection**  
-  ![Sexism Detection](https://img.shields.io/badge/🚺-Sexism_Detector-8E44AD?style=for-the-badge&logo=female&logoColor=white)  
+  ![Sexism Detection](https://img.shields.io/badge/-Sexism_Detector-007BFF?style=for-the-badge&logo=female&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Sexism_Detection)  
 
 - **11️⃣ Spam Ham Detector**  
-  ![Spam Ham](https://img.shields.io/badge/📧-Spam_Ham_Detector-FFC0CB?style=for-the-badge&logo=mail&logoColor=white)  
+  ![Spam Ham](https://img.shields.io/badge/-Spam_Ham_Detector-007BFF?style=for-the-badge&logo=mail&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Spam_ham_detection)  
 
 ---
@@ -83,15 +83,15 @@
 ## 🌌 **Astronomy-Based ML Models**  
 
 - **12️⃣ Star Type Prediction**  
-  ![Star Type](https://img.shields.io/badge/🌟-Star_Type_Prediction-3498DB?style=for-the-badge&logo=star&logoColor=white)  
+  ![Star Type](https://img.shields.io/badge/-Star_Type_Prediction-007BFF?style=for-the-badge&logo=star&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Spartificial_Project_2)  
 
 - **13️⃣ Star Size Prediction**  
-  ![Star Size](https://img.shields.io/badge/🔭-Star_Size_Model-9B59B6?style=for-the-badge&logo=telescope&logoColor=white)  
+  ![Star Size](https://img.shields.io/badge/-Star_Size_Model-007BFF?style=for-the-badge&logo=telescope&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Spartificial_Project_1)  
 
 - **14️⃣ Exoplanet ESI Prediction**  
-  ![Exoplanet ESI](https://img.shields.io/badge/🪐-Exoplanet_ESI_Model-1ABC9C?style=for-the-badge&logo=planet&logoColor=white)  
+  ![Exoplanet ESI](https://img.shields.io/badge/-Exoplanet_ESI_Model-007BFF?style=for-the-badge&logo=planet&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/Predicting_ESI_of_Exoplanets_Terraformation_Potential)  
 
 ---
@@ -99,10 +99,11 @@
 ## 🤯 **Unique and Crazy ML Models**  
 
 - **15️⃣ Satellite LULC Classification**  
-  ![Satellite](https://img.shields.io/badge/🛰️-Satellite_LULC_Model-34495E?style=for-the-badge&logo=satellite&logoColor=white)  
+  ![Satellite](https://img.shields.io/badge/-Satellite_LULC_Model-007BFF?style=for-the-badge&logo=satellite&logoColor=white)  
   [**GitHub Repository**](https://github.com/fafawds67685da/GEE_Satellite-imaging)  
 
 ---
+
 
 
 
