@@ -23,9 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&show_icons=true&locale=en&layout=default&langs_count=100&hide_progress=false&cache_seconds=1800" alt="Most Used Languages"/>
 </p>
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&" alt="fafawds67685da" /></p>
 
 # 🚀 **Machine Learning Models Portfolio**
