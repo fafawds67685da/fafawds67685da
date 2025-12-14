@@ -70,16 +70,21 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<!-- Try multiple streak stat providers -->
+<!-- FIXED GITHUB STREAK -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fafawds67685da&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- FIXED GITHUB PROFILE STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <h3 align="left">💻 Most Used Languages:</h3>
 
-<!-- Show ALL languages - nothing hidden -->
+<!-- FIXED, MORE RELIABLE LANGUAGE CARD -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&custom_title=All%20Programming%20Languages" alt="All Languages" width="500"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&custom_title=All%20Programming%20Languages" width="500"/>
 </p>
 
 <br>
