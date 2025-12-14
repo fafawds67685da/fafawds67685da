@@ -71,8 +71,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
 
 <h3 align="left">💻 Most Used Languages:</h3>
@@ -80,62 +79,6 @@
 <!-- Show ALL languages - nothing hidden -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&layout=compact&theme=radical&hide_border=true&langs_count=20&custom_title=All%20Programming%20Languages" alt="All Languages" width="500"/>
-</p>
-
-<!-- Alternative view: Donut chart with ALL languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafawds67685da&layout=donut&theme=radical&hide_border=true&langs_count=15" alt="Languages Donut" width="400"/>
-</p>
-
-<br>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fafawds67685da&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<h3 align="left">📈 Contribution Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fafawds67685da&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<br>
-
-<h3 align="left">🔥 GitHub Metrics:</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fafawds67685da&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fafawds67685da&theme=radical" alt="Productive Time" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fafawds67685da&theme=radical" alt="Stats" width="400"/>
-</p>
-
-<br>
-
-<h3 align="left">⚡ Recent Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fafawds67685da&repo=your-best-repo&theme=radical&hide_border=true" alt="Pinned Repo 1" width="400"/>
-</p>
-
-<br>
-
-<h3 align="left">🎯 LeetCode Stats:</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev_goyal_001?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="500"/>
-</p>
-
-<br>
-
-<h3 align="left">📊 Coding Stats (WakaTime):</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dev_goyal_001&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
-</p>
-
-<p align="center">
-  <i>💡 Install <a href="https://wakatime.com/">WakaTime</a> in your IDE to track coding time automatically!</i>
 </p>
 
 <br>
