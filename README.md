@@ -71,8 +71,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fafawds67685da&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+</p>
+
+<!-- Backup Streak Stats (if above fails) -->
+<!-- 
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
+-->
 
 <h3 align="left">💻 Most Used Languages:</h3>
 
