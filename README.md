@@ -70,16 +70,13 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<!-- Using demolab.com which is working -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fafawds67685da&theme=tokyonight&hide_border=true&cache_seconds=1&v=2"
+  <img src="https://streak-stats.demolab.com/?theme=tokyonight&hide_border=true&user=fafawds67685da&cache_seconds=1"
        alt="GitHub Streak" />
 </p>
 
-
 <h3 align="left">💻 Most Used Languages:</h3>
 
-<!-- Show ALL languages - nothing hidden -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&custom_title=All%20Programming%20Languages" alt="All Languages" width="500"/>
 </p>
