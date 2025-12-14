@@ -72,7 +72,7 @@
 
 <!-- Using demolab.com which is working -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fafawds67685da&theme=tokyonight&hide_border=true&cache_seconds=1.png"
+  <img src="https://streak-stats.demolab.com?user=fafawds67685da&theme=tokyonight&hide_border=true&cache_seconds=1&v=2"
        alt="GitHub Streak" />
 </p>
 
