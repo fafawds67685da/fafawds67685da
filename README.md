@@ -104,13 +104,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/demo/preview.png?user=fafawds67685da&theme=tokyonight"
-       alt="GitHub Streak" />
+  <img src="https://streak-proxy.devgoyal.workers.dev/?user=fafawds67685da&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak (Proxy)" />
 </p>
-
-
-
-
 
 <br>
 
