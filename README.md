@@ -71,9 +71,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?theme=tokyonight&hide_border=true&user=fafawds67685da&cache_seconds=1"
-       alt="GitHub Streak" />
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?theme=tokyonight&hide_border=true&user=fafawds67685da&cache_seconds=1" type="image/png">
+    <img src="https://streak-stats.demolab.com/?theme=tokyonight&hide_border=true&user=fafawds67685da&cache_seconds=1"
+         alt="GitHub Streak" />
+  </picture>
 </p>
+
 
 <h3 align="left">💻 Most Used Languages:</h3>
 
