@@ -104,9 +104,10 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?theme=tokyonight&hide_border=true&user=fafawds67685da&cache_seconds=1"
+  <img src="https://streak-stats.demolab.com/?user=fafawds67685da&theme=tokyonight&hide_border=true&mode=daily"
        alt="GitHub Streak" />
 </p>
+
 
 
 
