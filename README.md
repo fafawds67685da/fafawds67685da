@@ -75,22 +75,6 @@
   <img src="https://streak-stats.demolab.com/?user=fafawds67685da&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">📈 Code Statistics:</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fafawds67685da&theme=tokyonight" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-62-blue?style=for-the-badge&logo=github" alt="Total Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/fafawds67685da&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=brightgreen" alt="Public Repos"/>
-</p>
-
-<!-- Lines of Code Counter -->
-<p align="center">
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue?style=for-the-badge" alt="Lines of Code"/>
-</p>
-
 <h3 align="left">💻 Most Used Languages:</h3>
 
 <!-- Show ALL languages - nothing hidden -->
