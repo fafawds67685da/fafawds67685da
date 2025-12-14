@@ -72,8 +72,10 @@
 
 <!-- Using demolab.com which is working -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?theme=tokyonight&hide_border=true&user=fafawds67685da&cache_seconds=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fafawds67685da&theme=tokyonight&hide_border=true&cache_seconds=1.png"
+       alt="GitHub Streak" />
 </p>
+
 
 <h3 align="left">💻 Most Used Languages:</h3>
 
