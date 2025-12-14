@@ -71,12 +71,29 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
+<h3 align="left">💻 Most Used Languages:</h3>
+
+<!-- Primary view: Hide Jupyter Notebook to show actual code languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook&card_width=445" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook,html,css&custom_title=Programming%20Languages" alt="Top Languages" width="500"/>
+</p>
+
+<!-- Secondary view: Show ALL languages including Jupyter -->
+<details>
+<summary><b>📊 View All Languages (Including Jupyter Notebooks)</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&layout=compact&theme=radical&hide_border=true&langs_count=15&custom_title=All%20Languages%20(With%20Jupyter)" alt="All Languages" width="500"/>
+</p>
+</details>
+
+<!-- Alternative visualization: Donut chart -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafawds67685da&layout=donut&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Languages Donut" width="380"/>
 </p>
 
 <br>
