@@ -87,9 +87,17 @@
 
 <br>
 
-<h3 align="left">📊 GitHub Streak:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fafawds67685da&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       alt="GitHub Stats" />
+</p>
+
+<br>
+
+<h3 align="left">🔥 GitHub Streak:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=tokyonight&hide_border=true"
        alt="GitHub Streak"/>
 </p>
 
