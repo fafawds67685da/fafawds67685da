@@ -105,8 +105,24 @@
 
 <h3 align="left">💻 Most Used Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fafawds67685da&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&hide=html,css"
        alt="Top Languages"/>
+</p>
+
+<!-- Alternative if above doesn't work -->
+<!-- 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fafawds67685da&theme=tokyonight"
+       alt="Top Languages"/>
+</p>
+-->
+
+<br>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+       alt="GitHub Stats" />
 </p>
 
 <br>
