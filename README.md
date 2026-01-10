@@ -89,7 +89,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=fafawds67685da&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
        alt="GitHub Stats" />
 </p>
 
@@ -97,7 +97,7 @@
 
 <h3 align="left">🔥 GitHub Streak:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fafawds67685da&theme=tokyonight&hide_border=true"
+  <img src="https://streak-stats.demolab.com/?user=fafawds67685da&theme=tokyonight&hide_border=true"
        alt="GitHub Streak"/>
 </p>
 
@@ -105,7 +105,7 @@
 
 <h3 align="left">💻 Most Used Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
        alt="Top Languages"/>
 </p>
 
