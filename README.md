@@ -105,7 +105,7 @@
 
 <h3 align="left">💻 Most Used Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&hide=html,css"
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fafawds67685da&layout=compact&theme=tokyonight&hide_border=true"
        alt="Top Languages"/>
 </p>
 
